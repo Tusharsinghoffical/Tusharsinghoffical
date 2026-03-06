@@ -139,13 +139,9 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Tusharsinghoffical/Tusharsinghoffical/output/github-contribution-grid-snake.svg"/>
-
+🐍 Contribution Snake 
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> 
 </p>
 
 ---
