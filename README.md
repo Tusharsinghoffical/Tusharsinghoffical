@@ -110,16 +110,6 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharsinghoffical&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
