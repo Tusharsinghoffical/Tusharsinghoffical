@@ -57,7 +57,7 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 
 
   <a href="https://codewithmrsingh.me">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-codewithmrsingh.me-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐?style=for-the-badge" />
   </a>
 <a href="https://github.com/Tusharsinghoffical">
 <img src="https://skillicons.dev/icons?i=github" height="32"/>
