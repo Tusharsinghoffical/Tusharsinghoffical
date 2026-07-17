@@ -55,10 +55,6 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 
 <p align="center">
 
-<a href="https://codewithmrsingh.me" target="_blank">
-  <img src="https://cdn.simpleicons.org/internet" height="32" alt="Portfolio"/>
-</a>
-
 <a href="https://github.com/Tusharsinghoffical">
   <img src="https://skillicons.dev/icons?i=github" height="32"/>
 </a>
