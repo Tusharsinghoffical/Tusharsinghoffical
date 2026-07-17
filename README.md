@@ -79,16 +79,6 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 
 ---
 
-# 🧠 Competitive Programming
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/tusharsinghkumar04?theme=dark"/>
-
-</p>
-
----
-
 # ⚙️ Tech Stack
 
 ### 💻 Languages
