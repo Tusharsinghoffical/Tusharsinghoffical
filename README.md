@@ -54,34 +54,33 @@ https://docs.google.com/document/d/1RbwKAu1vZSQ1EE4K-8adQuWqVRHqvVgasCePlKLZ01Y/
 # 🌐 Connect With Me
 
 <p align="center">
+<p align="center">
 
 <a href="https://codewithmrsingh.me" target="_blank">
   <img src="https://cdn.simpleicons.org/internet" height="32" alt="Portfolio"/>
 </a>
 
-
 <a href="https://github.com/Tusharsinghoffical">
-<img src="https://skillicons.dev/icons?i=github" height="32"/>
+  <img src="https://skillicons.dev/icons?i=github" height="32"/>
 </a>
 
 <a href="https://linkedin.com/in/tusharsingh2011">
-<img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
 </a>
 
 <a href="https://twitter.com/Tushar885161">
-<img src="https://skillicons.dev/icons?i=twitter" height="32"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="32"/>
 </a>
 
 <a href="https://instagram.com/codewith_mrsingh">
-<img src="https://skillicons.dev/icons?i=instagram" height="32"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="32"/>
 </a>
 
 <a href="https://youtube.com/@codewithmrsingh4u">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="30"/>
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30"/>
 </a>
 
 </p>
-
 ---
 
 # ⚙️ Tech Stack
